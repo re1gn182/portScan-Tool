@@ -1,4 +1,4 @@
-# portScannr & passwdChckr
+# portScannr (check Repo these can work together) & passwdChckr
 
 Small collection of simple security utilities:
 
